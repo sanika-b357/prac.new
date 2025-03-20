@@ -1,2 +1,2 @@
-# prac.new
-hi this is me sanika 
+
+print "hi this is me sanika "
